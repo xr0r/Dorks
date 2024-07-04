@@ -55,3 +55,4 @@ intitle:index of
 intitle:index of .git
 inurl:robots.txt
 (intitle:contact | intext:contact us | intext:survey | intitle:survey | intitle:feedback | intext:feedback| intitle:form | intext:form | inurl:form | feedback form)
+(intext:”index of /.git”) (“parent directory”)
