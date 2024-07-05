@@ -1,4 +1,5 @@
 title:"Index of /"
+http.title:"Directory Listing"
 http.html:"username"
 http.html:"password"
 http.html:"dashboard"
