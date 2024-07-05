@@ -57,3 +57,23 @@ inurl:robots.txt
 (intitle:contact | intext:contact us | intext:survey | intitle:survey | intitle:feedback | intext:feedback| intitle:form | intext:form | inurl:form | feedback form)
 (intext:”index of /.git” | intext:"Index of /.git/logs/" | intext:"Index of /.git/refs" | intext:"Index of /.git/hooks/" | intext:"Index of /.git/branches" | inurl:"/.git/HEAD" | inurl:"/.git/config") (“parent directory”)
 (intext:"Index of /.git/HEAD" | intext:"Index of /.git/config" | intext:"Index of /.git/info/") (“parent directory”)
+site:pastebin.com
+site:jsfiddle.net
+site:codebeautify.org
+site:codepen.io
+site:s3.amazonaws.com
+site:blob.core.windows.net
+site:googleapis.com
+site:drive.google.com
+site:dev.azure.com
+site:onedrive.live.com
+site:digitaloceanspaces.com
+site:sharepoint.com
+site:s3-external-1.amazonaws.com
+site:dropbox.com/s
+site:box.com/s
+site:docs.google.com/d/
+site:linkedin.com employees
+(site:github.com | site:gitlab.com)
+site:firebaseio.com
+site:linkedin.com employees
