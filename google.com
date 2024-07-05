@@ -55,8 +55,8 @@ intitle:index of
 intitle:index of .git
 inurl:robots.txt
 (intitle:contact | intext:contact us | intext:survey | intitle:survey | intitle:feedback | intext:feedback| intitle:form | intext:form | inurl:form | feedback form)
-(intext:”index of /.git” | intext:"Index of /.git/logs/" | intext:"Index of /.git/refs" | intext:"Index of /.git/hooks/" | intext:"Index of /.git/branches" | inurl:"/.git/HEAD" | inurl:"/.git/config") (“parent directory”)
-(intext:"Index of /.git/HEAD" | intext:"Index of /.git/config" | intext:"Index of /.git/info/") (“parent directory”)
+(intext:”index of /.git” | intext:Index of /.git/logs/ | intext:Index of /.git/refs | intext:Index of /.git/hooks/ | intext:Index of /.git/branches | inurl:/.git/HEAD | inurl:/.git/config) (“parent directory”)
+(intext:Index of /.git/HEAD | intext:Index of /.git/config | intext:Index of /.git/info/) (“parent directory”)
 site:pastebin.com
 site:jsfiddle.net
 site:codebeautify.org
