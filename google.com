@@ -77,3 +77,5 @@ site:linkedin.com employees
 (site:github.com | site:gitlab.com)
 site:firebaseio.com
 site:linkedin.com employees
+inurl:notepad.link
+site:join.slack.com
